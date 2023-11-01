@@ -78,7 +78,7 @@ export default function Home() {
                     </p>
 
                     <a
-                        href="/"
+                        href="/test"
                         className="block w-80 rounded-lg bg-blue-600 py-3 text-center text-white"
                     >
                         Adventure now
